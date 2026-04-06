@@ -6,7 +6,3 @@ Este repositório contém exercícios organizados por roteiros, incluindo classe
 - Roteiro01 a Roteiro09: exercícios separados por tema.
 - RoteirosPOO.cs: arquivo principal agregador.
 - SQL: scripts utilizados no Roteiro09.
-
-## Como executar
-Abra em Visual Studio / usando .NET.
-
